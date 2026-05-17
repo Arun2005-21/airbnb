@@ -6,9 +6,9 @@ if(process.env.NODE_ENV !== "production"){
   console.log("Running in Production Mode");
 }
 
-console.log("SECRET KEY:", process.env.SECRET);
+// console.log("SECRET KEY:", process.env.SECRET);
 require('dotenv').config({ path: './.env' });
-console.log(process.env.SECRET);
+// console.log(process.env.SECRET);
 
 
 
