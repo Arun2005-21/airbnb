@@ -69,7 +69,7 @@
 
     
 
-  "cloudinary": "^1.41.3",
+  "cloudinary": "^2.10.0",
   
 
     
@@ -152,9 +152,9 @@
   "multer-storage-cloudinary": "^4.0.0",
   
 
-    
 
-  "package-name": "^0.1.0",
+
+ 
   
 
     
